@@ -1,0 +1,14 @@
+C:\MY\Dev\GB\c#\promez\Task 1\bin\Debug\net7.0\Task 1.exe
+C:\MY\Dev\GB\c#\promez\Task 1\bin\Debug\net7.0\Task 1.deps.json
+C:\MY\Dev\GB\c#\promez\Task 1\bin\Debug\net7.0\Task 1.runtimeconfig.json
+C:\MY\Dev\GB\c#\promez\Task 1\bin\Debug\net7.0\Task 1.dll
+C:\MY\Dev\GB\c#\promez\Task 1\bin\Debug\net7.0\Task 1.pdb
+C:\MY\Dev\GB\c#\promez\Task 1\obj\Debug\net7.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MY\Dev\GB\c#\promez\Task 1\obj\Debug\net7.0\Task 1.AssemblyInfoInputs.cache
+C:\MY\Dev\GB\c#\promez\Task 1\obj\Debug\net7.0\Task 1.AssemblyInfo.cs
+C:\MY\Dev\GB\c#\promez\Task 1\obj\Debug\net7.0\Task 1.csproj.CoreCompileInputs.cache
+C:\MY\Dev\GB\c#\promez\Task 1\obj\Debug\net7.0\Task 1.dll
+C:\MY\Dev\GB\c#\promez\Task 1\obj\Debug\net7.0\refint\Task 1.dll
+C:\MY\Dev\GB\c#\promez\Task 1\obj\Debug\net7.0\Task 1.pdb
+C:\MY\Dev\GB\c#\promez\Task 1\obj\Debug\net7.0\Task 1.genruntimeconfig.cache
+C:\MY\Dev\GB\c#\promez\Task 1\obj\Debug\net7.0\ref\Task 1.dll
